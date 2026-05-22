@@ -1,1 +1,1 @@
-https://it23-2.github.io/mesto-production/
+https://github.com/IT23-2/mesto-ad
